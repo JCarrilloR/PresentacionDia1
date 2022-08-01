@@ -1,0 +1,37 @@
+---
+title: "Presesntación Ejemplo"
+author: "J.Carrillo-Reyes"
+institute: "Instituto de Ingeniería, UNAM"
+output:
+  xaringan::moon_reader:
+    css: [metropolis, metropolis-fonts]
+    self_contained: true
+    nature:
+      ratio: '16:9'
+  
+---
+```{r xaringanExtra-clipboard, echo=FALSE}
+#No quitar es para quw aparezca copiar còdigo
+xaringanExtra::use_clipboard()
+```
+
+# Introducción a R
+Ejemplos 
+
+## Introducción a DADA2
+Ejercicios
+
+
+---
+## Nueva diapositiva
+
+
+```{r}
+1+3
+```
+
+--- 
+
+
+
+---
